@@ -1,0 +1,21 @@
+title: "Alexi Karuna"
+description: "Freelance SRE, Backend Engineer, AI/LLM Systems"
+url: "https://alexikaruna.com"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+# Optional - disable search if not needed
+minimal_mistakes_skin: "default"
+
+# Optional - navigation links
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
+
